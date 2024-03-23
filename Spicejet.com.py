@@ -23,3 +23,5 @@ driver = webdriver.Chrome(options=options, service=ChromeService(ChromeDriverMan
 driver.get("https://www.spicejet.com/")
 driver.maximize_window()
 driver.implicitly_wait(10)
+
+print("hii")
