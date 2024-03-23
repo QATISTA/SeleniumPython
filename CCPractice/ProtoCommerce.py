@@ -41,5 +41,6 @@ driver.implicitly_wait(3)
 msg = driver.find_element(By.XPATH, "//div[@class='alert alert-success alert-dismissible']").text
 print(msg)
 
+print("Hello")
 
 
