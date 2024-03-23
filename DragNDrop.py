@@ -32,7 +32,5 @@ target_ele1 = driver.find_element(By.ID, "droppable")
 act = ActionChains(driver)
 act.drag_and_drop(source_ele1, target_ele1).perform()
 
-print("New work")
-
-
+print("hii people!!")
 
