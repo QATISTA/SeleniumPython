@@ -1,0 +1,206 @@
+
+      Liquid Health Pets | Your Pet Supplements Store
+
+The following are all instances of your keyword:
+1.
+  {
+    const getPage = () => "index";
+    const getSearchTerms = () => "";
+    const getCart = () => ({"note":null,"attributes":{},"original_total_price":0,"total_price":0,"total_discount":0,"total_weight":0.0,"item_count":0,"items":[],"requires_shipping":false,"currency":"USD","items_subtotal_price":0,"cart_level_discount_applications":[],"checkout_charge_amount":0});
+
+    const getCollection = () => ({
+      list_id: "",
+      category: "",
+      currency: "USD",
+    });
+
+    const getCustomer = () => ({
+      name: (null + " " + null).trim(),
+      externalCustomerId: "",
+      email: "",
+      firstName: null,
+      lastName: null,
+      address: {
+        street: null,
+        city: null,
+        state:  null,
+        stateCode: null,
+        postalCode: "",
+        countryCode: "",
+      }
+    });
+
+    const getProduct = () => ({
+      productId: "",
+      variant: "",
+      sku: null,
+      brand: null,
+      category: null,
+      name: null,
+      price: 0.0,
+      url: "",
+      imageUrl: "",
+      currency: "USD"
+    });
+
+    const getProducts = () => {
+      
+    };
+    window.addEventListener('fueled-load', () => {
+      window.Fueled.setDataLayerItem('page', getPage());
+
+      window.Fueled.setDataLayerItem('cart', getCart());
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    });
+  }
+
+There were 2 matches found for the keyword.
+      Liquid Health Pets | Your Pet Supplements Store
+
+The following are all instances of your keyword:
+1.
+  {
+    const getPage = () => "index";
+    const getSearchTerms = () => "";
+    const getCart = () => ({"note":null,"attributes":{},"original_total_price":0,"total_price":0,"total_discount":0,"total_weight":0.0,"item_count":0,"items":[],"requires_shipping":false,"currency":"USD","items_subtotal_price":0,"cart_level_discount_applications":[],"checkout_charge_amount":0});
+
+    const getCollection = () => ({
+      list_id: "",
+      category: "",
+      currency: "USD",
+    });
+
+    const getCustomer = () => ({
+      name: (null + " " + null).trim(),
+      externalCustomerId: "",
+      email: "",
+      firstName: null,
+      lastName: null,
+      address: {
+        street: null,
+        city: null,
+        state:  null,
+        stateCode: null,
+        postalCode: "",
+        countryCode: "",
+      }
+    });
+
+    const getProduct = () => ({
+      productId: "",
+      variant: "",
+      sku: null,
+      brand: null,
+      category: null,
+      name: null,
+      price: 0.0,
+      url: "",
+      imageUrl: "",
+      currency: "USD"
+    });
+
+    const getProducts = () => {
+      
+    };
+    window.addEventListener('fueled-load', () => {
+      window.Fueled.setDataLayerItem('page', getPage());
+
+      window.Fueled.setDataLayerItem('cart', getCart());
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    });
+  }
+
+There were 2 matches found for the keyword.2.window.addEventListener("klaviyoForms",function(a){"open"!=a.detail.type&&"embedOpen"!=a.detail.type||ga("send","event","Klaviyo form","form_open",a.detail.formId);"submit"==a.detail.type&&ga("send","event","Klaviyo form","form_submit",a.detail.formId);"stepSubmit"==a.detail.type&&ga("send","event","Klaviyo form","form_step_submit",a.detail.metaData.$step_name);"redirectedToUrl"==a.detail.type&&ga("send","event","Klaviyo form","form_url_redirect",a.detail.formId);"close"==a.detail.type&&ga("send",
+"event","Klaviyo form","form_close",a.detail.formId)});
+There were 2 matches found for the keyword.
+      K9 Complete 8-in-1 Multivitamin For Dogs
+ – Liquid Health Pets
+The following are all instances of your keyword:
+1.
+  {
+    const getPage = () => "product";
+    const getSearchTerms = () => "";
+    const getCart = () => ({"note":"","attributes":{"fueled_context":"{}"},"original_total_price":0,"total_price":0,"total_discount":0,"total_weight":0.0,"item_count":0,"items":[],"requires_shipping":false,"currency":"USD","items_subtotal_price":0,"cart_level_discount_applications":[],"checkout_charge_amount":0});
+
+    const getCollection = () => ({
+      list_id: "",
+      category: "",
+      currency: "USD",
+    });
+
+    const getCustomer = () => ({
+      name: (null + " " + null).trim(),
+      externalCustomerId: "",
+      email: "",
+      firstName: null,
+      lastName: null,
+      address: {
+        street: null,
+        city: null,
+        state:  null,
+        stateCode: null,
+        postalCode: "",
+        countryCode: "",
+      }
+    });
+
+    const getProduct = () => ({
+      productId: "8068426170687",
+      variant: "44248510955839",
+      sku: "7-654629-0006-9",
+      brand: "Liquid Health Pets",
+      category: "All Products",
+      name: "K9 Complete 8-in-1 Multivitamin For Dogs",
+      price: 37.95,
+      url: "/products/k9-complete-8-in-1",
+      imageUrl: "products/K9-Complete-New-800x800-1.png",
+      currency: "USD"
+    });
+
+    const getProducts = () => {
+      
+    };
+    window.addEventListener('fueled-load', () => {
+      window.Fueled.setDataLayerItem('page', getPage());
+
+      window.Fueled.setDataLayerItem('cart', getCart());
+      
+      
+      
+      
+      
+      
+      window.Fueled.setDataLayerItem('product', getProduct());
+      
+      
+      
+      
+      
+    });
+  }
+
+There were 2 matches found for the keyword.2.window.addEventListener("klaviyoForms",function(a){"open"!=a.detail.type&&"embedOpen"!=a.detail.type||ga("send","event","Klaviyo form","form_open",a.detail.formId);"submit"==a.detail.type&&ga("send","event","Klaviyo form","form_submit",a.detail.formId);"stepSubmit"==a.detail.type&&ga("send","event","Klaviyo form","form_step_submit",a.detail.metaData.$step_name);"redirectedToUrl"==a.detail.type&&ga("send","event","Klaviyo form","form_url_redirect",a.detail.formId);"close"==a.detail.type&&ga("send",
+"event","Klaviyo form","form_close",a.detail.formId)});
+There were 2 matches found for the keyword.How AI in Visual Testing is transforming the Testing Landscape | BrowserStack
+The following are all instances of your keyword:
+1.Data Centres
+There were 2 matches found for the keyword.2.Data Centers
+There were 2 matches found for the keyword.

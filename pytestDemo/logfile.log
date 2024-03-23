@@ -1,0 +1,13 @@
+2024-03-17 20:40:18,318 :INFO :pytestDemo.BaseClass :rahul1@yopmail.com
+2024-03-17 20:45:12,272 :INFO :pytestDemo.BaseClass :rahul1@yopmail.com
+2024-03-17 20:45:12,372 :DEBUG :pytestDemo.test_logging :Debug log
+2024-03-17 20:45:12,372 :INFO :pytestDemo.test_logging :Information log 
+2024-03-17 20:45:12,372 :WARNING :pytestDemo.test_logging :Warning log
+2024-03-17 20:45:12,372 :ERROR :pytestDemo.test_logging :Error log
+2024-03-17 20:45:12,372 :CRITICAL :pytestDemo.test_logging :Critical log
+2024-03-17 20:46:41,154 :INFO :pytestDemo.BaseClass :rahul1@yopmail.com
+2024-03-17 20:46:41,247 :DEBUG :pytestDemo.test_logging :Debug log
+2024-03-17 20:46:41,247 :INFO :pytestDemo.test_logging :Information log 
+2024-03-17 20:46:41,247 :WARNING :pytestDemo.test_logging :Warning log
+2024-03-17 20:46:41,247 :ERROR :pytestDemo.test_logging :Error log
+2024-03-17 20:46:41,248 :CRITICAL :pytestDemo.test_logging :Critical log
