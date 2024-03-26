@@ -26,4 +26,5 @@ time.sleep(3)
 x = driver.find_element(By.XPATH, "//*[@id='ur-submit-message-node']/ul").text
 
 print(x)
+print("File uploading is shown")
 
