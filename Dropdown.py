@@ -17,6 +17,7 @@ driver.maximize_window()
 drp = Select(driver.find_element(By.XPATH, "//select[@id='first']"))
 
 drp.select_by_visible_text("Google")
+print("dropdown selection is shown")
 # drp.select_by_index(2)
 # drp.select_by_value("1")
 
